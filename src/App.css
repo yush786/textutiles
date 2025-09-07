@@ -2,10 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -36,3 +32,17 @@
     transform: rotate(360deg);
   }
 }
+.blank {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5px;
+  color: rgb(120, 121, 152);
+  font-size: 20px;
+}
+/* .container my-3{
+  margin-top: 20px;
+  margin-bottom: 20px;
+} */
+
+
+
